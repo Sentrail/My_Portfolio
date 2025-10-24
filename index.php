@@ -20,8 +20,7 @@
     </section>
 
     <!-- About -->
-    <section id="about" class="section container bg-light">
-        <div class="text-center mb-16">
+    <section id="about" class="section container bg-light">        <div class="text-center mb-16">
             <h2 class="bold heading">About Me</h2>
             <div class="underline mx-auto mb-8"></div>
         </div>
